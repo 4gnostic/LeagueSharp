@@ -1,0 +1,12 @@
+c:\users\samet\documents\visual studio 2013\Projects\KassadinCarry\KassadinCarry\bin\Debug\KassadinCarry.exe.config
+c:\users\samet\documents\visual studio 2013\Projects\KassadinCarry\KassadinCarry\bin\Debug\KassadinCarry.exe
+c:\users\samet\documents\visual studio 2013\Projects\KassadinCarry\KassadinCarry\bin\Debug\KassadinCarry.pdb
+c:\users\samet\documents\visual studio 2013\Projects\KassadinCarry\KassadinCarry\bin\Debug\LeagueSharp.Common.dll
+c:\users\samet\documents\visual studio 2013\Projects\KassadinCarry\KassadinCarry\bin\Debug\LeagueSharp.dll
+c:\users\samet\documents\visual studio 2013\Projects\KassadinCarry\KassadinCarry\bin\Debug\SharpDX.dll
+c:\users\samet\documents\visual studio 2013\Projects\KassadinCarry\KassadinCarry\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\samet\documents\visual studio 2013\Projects\KassadinCarry\KassadinCarry\bin\Debug\clipper_library.dll
+c:\users\samet\documents\visual studio 2013\Projects\KassadinCarry\KassadinCarry\bin\Debug\LeagueSharp.xml
+c:\users\samet\documents\visual studio 2013\Projects\KassadinCarry\KassadinCarry\obj\Debug\KassadinCarry.exe
+c:\users\samet\documents\visual studio 2013\Projects\KassadinCarry\KassadinCarry\obj\Debug\KassadinCarry.pdb
+c:\users\samet\documents\visual studio 2013\Projects\KassadinCarry\KassadinCarry\obj\Debug\KassadinCarry.csprojResolveAssemblyReference.cache
